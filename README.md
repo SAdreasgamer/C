@@ -1,2 +1,1 @@
-# C-
-ntg much
+this is my first git file
